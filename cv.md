@@ -29,4 +29,4 @@ Computer Science and Engineering, 2nd year study, SUAI, Saint-Petersburg, Russia
 
 ## Languages:
 * Russian (native)
-* English
+* Englishь(B2)
