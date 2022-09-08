@@ -1,1 +1,1 @@
-# rsschool-cv
+https://DmiKul.github.io/rsschool-cv/
